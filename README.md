@@ -3,4 +3,11 @@
 </div>
 <br />
 
-<img src="https://github.com/brickfrog/brickfrog/raw/master/2020/output/output.gif" width="350">
+<img src="https://github.com/brickfrog/brickfrog/raw/master/2020/output/output.gif" width="400">
+
+# :mage: <br>
+
+2021 resolution involves:
+* Haskell dev skillz
+* More personal projects / FOSS contributions
+* Keep blog/wiki updated
