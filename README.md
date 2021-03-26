@@ -3,9 +3,6 @@
 </div>
 <br />
 
-<img src="https://github.com/brickfrog/brickfrog/raw/master/2020/output/output.gif" width="400">
-
 2021 resolution involves:
-* Haskell dev skills
-* More personal projects / FOSS contributions
+* More personal projects
 * Keep blog/wiki updated
